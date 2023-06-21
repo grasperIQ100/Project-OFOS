@@ -1,0 +1,109 @@
+[31-Aug-2017 15:50:01 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/statskin/public_html/meri/api/Login_Activity.php on line 7
+[31-Aug-2017 15:50:01 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/statskin/public_html/meri/api/Login_Activity.php on line 13
+[31-Aug-2017 15:50:01 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/statskin/public_html/meri/api/Login_Activity.php on line 17
+[31-Aug-2017 15:50:01 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/statskin/public_html/meri/api/Login_Activity.php on line 24
+[31-Aug-2017 15:51:00 America/New_York] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/statskin/public_html/meri/api/Login_Activity.php on line 13
+[31-Aug-2017 15:51:00 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/statskin/public_html/meri/api/Login_Activity.php on line 17
+[31-Aug-2017 15:51:00 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, resource given in /home/statskin/public_html/meri/api/Login_Activity.php on line 24
+[31-Aug-2017 15:51:37 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/Login_Activity.php on line 17
+[31-Aug-2017 15:51:37 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, resource given in /home/statskin/public_html/meri/api/Login_Activity.php on line 24
+[31-Aug-2017 15:52:26 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/Login_Activity.php on line 17
+[31-Aug-2017 18:16:28 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, resource given in /home/statskin/public_html/meri/api/Thali_Name.php on line 23
+[31-Aug-2017 18:23:04 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, resource given in /home/statskin/public_html/meri/api/Thali_Name.php on line 23
+[01-Sep-2017 19:00:29 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/Thali_Items.php on line 20
+[01-Sep-2017 19:01:53 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/Thali_Items.php on line 20
+[01-Sep-2017 19:06:01 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/Thali_Items.php on line 21
+[03-Sep-2017 09:20:06 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/statskin/public_html/meri/api/area.php on line 23
+[04-Sep-2017 08:01:28 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/statskin/public_html/meri/api/order.php on line 52
+[04-Sep-2017 08:03:32 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/statskin/public_html/meri/api/order.php on line 5
+[04-Sep-2017 08:03:32 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/statskin/public_html/meri/api/order.php on line 5
+[04-Sep-2017 08:03:32 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/order.php on line 6
+[04-Sep-2017 08:03:32 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/statskin/public_html/meri/api/order.php on line 19
+[04-Sep-2017 08:03:32 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/statskin/public_html/meri/api/order.php on line 19
+[04-Sep-2017 08:03:32 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/statskin/public_html/meri/api/order.php on line 20
+[04-Sep-2017 08:03:32 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/statskin/public_html/meri/api/order.php on line 20
+[04-Sep-2017 08:03:32 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/order.php on line 21
+[04-Sep-2017 08:03:32 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/order.php on line 22
+[04-Sep-2017 08:03:32 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/statskin/public_html/meri/api/order.php on line 53
+[04-Sep-2017 08:03:32 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/statskin/public_html/meri/api/order.php on line 53
+[04-Sep-2017 09:11:56 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/statskin/public_html/meri/api/order.php on line 32
+[04-Sep-2017 09:11:56 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/statskin/public_html/meri/api/order.php on line 33
+[07-Sep-2017 05:12:54 America/New_York] PHP Warning:  mysql_affected_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/feedback.php on line 15
+[07-Sep-2017 05:14:04 America/New_York] PHP Warning:  mysql_affected_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/feedback.php on line 15
+[09-Sep-2017 03:18:28 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/cancelorder.php on line 14
+[09-Sep-2017 05:38:39 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/statskin/public_html/meri/api/update.php on line 30
+[11-Sep-2017 02:29:36 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/statskin/public_html/meri/api/update.php on line 30
+[11-Sep-2017 02:30:14 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/statskin/public_html/meri/api/update.php on line 30
+[11-Sep-2017 02:30:52 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/statskin/public_html/meri/api/update.php on line 30
+[12-Sep-2017 04:58:04 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/statskin/public_html/meri/api/update.php on line 30
+[12-Sep-2017 04:59:55 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/statskin/public_html/meri/api/update.php on line 30
+[13-Sep-2017 07:08:25 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/Thali_Name.php on line 16
+[13-Sep-2017 07:09:09 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/Thali_Name.php on line 16
+[15-Sep-2017 04:39:32 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/statskin/public_html/meri/api/test.php on line 8
+[15-Sep-2017 04:39:33 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/statskin/public_html/meri/api/test.php on line 8
+[15-Sep-2017 04:40:13 America/New_York] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/statskin/public_html/meri/api/test.php on line 8
+[15-Sep-2017 05:34:50 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/statskin/public_html/meri/api/test.php on line 5
+[15-Sep-2017 06:01:57 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/statskin/public_html/meri/api/test.php on line 38
+[22-Sep-2017 11:30:12 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 11:30:13 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 11:31:38 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 11:31:38 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 11:41:03 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/statskin/public_html/meri/api/order.php on line 105
+[22-Sep-2017 11:41:06 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 11:41:06 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 11:48:51 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/statskin/public_html/meri/api/order.php on line 105
+[22-Sep-2017 11:48:54 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 11:48:54 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 11:50:55 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 11:50:55 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 11:55:22 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 11:55:22 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 12:02:08 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 12:02:08 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 12:06:48 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 12:06:48 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 12:19:42 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/statskin/public_html/meri/api/order.php on line 71
+[22-Sep-2017 12:19:44 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 12:19:45 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 12:27:36 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 12:27:36 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:05:24 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:05:24 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:07:20 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:07:20 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:11:32 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:11:32 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:15:06 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:15:06 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:17:19 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:17:19 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:18:40 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:18:40 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:35:10 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:35:11 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:38:21 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:38:22 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:40:30 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[22-Sep-2017 14:40:33 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 01:52:40 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 01:52:45 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 02:01:58 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 02:01:58 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 02:03:44 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 02:04:56 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 02:04:56 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 02:05:18 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 02:05:41 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 02:35:26 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 02:36:39 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 02:51:52 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 02:51:52 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 02:58:40 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 02:58:40 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 03:07:09 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 04:10:32 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 04:10:32 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/allorder.php on line 15
+[23-Sep-2017 10:13:28 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/statskin/public_html/meri/api/history.php on line 24
+[26-Sep-2017 08:44:37 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/cancelorder.php on line 8
+[26-Sep-2017 08:59:36 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/history.php on line 15
+[26-Sep-2017 09:00:05 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/statskin/public_html/meri/api/history.php on line 15
